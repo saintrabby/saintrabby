@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://github.com/saintrabby" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://github.com/saintrabby" target="_blank"><img src="https://simpleicons.org/icons/github.svg"/></a>
 
 
 <!--
