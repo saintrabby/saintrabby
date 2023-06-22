@@ -7,7 +7,6 @@
 ![Pokemon](https://img.shields.io/badge/Pokemon-FFCB05.svg?&style=for-the-badge&logo=Pokemon&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white)
 -->
-![Pokemon](https://img.shields.io/badge/Pokemon-FFCB05.svg?&style=for-the-badge&logo=Pokemon&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![styled-components](https://img.shields.io/badge/styled-components-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
