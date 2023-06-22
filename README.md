@@ -11,6 +11,7 @@
 ![Pokemon](https://img.shields.io/badge/Pokemon-FFCB05.svg?&style=for-the-badge&logo=Pokemon&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white)
 -->
+[Pokemon](https://img.shields.io/badge/Pokemon-FFCB05.svg?&style=for-the-badge&logo=Pokemon&logoColor=white)
 <!--
 **saintrabby/saintrabby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
