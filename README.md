@@ -12,7 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?&style=for-the-badge&logo=Axios&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
-![Nextjs](https://img.shields.io/badge/Nextjs-000000.svg?&style=for-the-badge&logo=Redux&logoColor=white)
+![Nextjs](https://img.shields.io/badge/Nextjs-000000.svg?&style=for-the-badge&logo=Nextjs&logoColor=white)
 <!--
 **saintrabby/saintrabby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
